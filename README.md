@@ -1,7 +1,7 @@
 Don't Stray Too Far!
 ========
 
-An entry for the 2013 Global Game Jam.
+Cooperative puzzle game made in 48 hours for the 2013 Global Game Jam
 
 Entry page: http://globalgamejam.org/2013/dont-stray-too-far
 

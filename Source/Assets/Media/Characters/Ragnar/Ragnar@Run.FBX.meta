@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 8d18c8ba02feb3a48a32b43374982d29
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: attach_axe
+    100002: attach_hammer
+    100004: attach_hand
+    100006: attach_shielda
+    100008: attatch_sword
+    100010: Base
+    100012: base_chest
+    100014: base_head
+    100016: base_torso
+    100018: chest
+    100020: haira
+    100022: hairb
+    100024: Head
+    100026: Jaw
+    100028: lankle
+    100030: lclav
+    100032: lelbow
+    100034: lhand
+    100036: lhip
+    100038: lknee
+    100040: lshoulda
+    100042: lshouldb
+    100044: ltoe
+    100046: lwrist
+    100048: neck
+    100050: pelvis
+    100052: //RootNode
+    100054: Ragnar_0
+    100056: rankle
+    100058: rclav
+    100060: relbow
+    100062: rhand
+    100064: rhip
+    100066: rknee
+    100068: rshoulda
+    100070: rshouldb
+    100072: rtoe
+    100074: rwrist
+    100076: spineb
+    100078: torso
+    400000: attach_axe
+    400002: attach_hammer
+    400004: attach_hand
+    400006: attach_shielda
+    400008: attatch_sword
+    400010: Base
+    400012: base_chest
+    400014: base_head
+    400016: base_torso
+    400018: chest
+    400020: haira
+    400022: hairb
+    400024: Head
+    400026: Jaw
+    400028: lankle
+    400030: lclav
+    400032: lelbow
+    400034: lhand
+    400036: lhip
+    400038: lknee
+    400040: lshoulda
+    400042: lshouldb
+    400044: ltoe
+    400046: lwrist
+    400048: neck
+    400050: pelvis
+    400052: //RootNode
+    400054: Ragnar_0
+    400056: rankle
+    400058: rclav
+    400060: relbow
+    400062: rhand
+    400064: rhip
+    400066: rknee
+    400068: rshoulda
+    400070: rshouldb
+    400072: rtoe
+    400074: rwrist
+    400076: spineb
+    400078: torso
+    4300000: Ragnar_0
+    7400000: Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ragnar_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
